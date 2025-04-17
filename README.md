@@ -68,9 +68,4 @@ See the `screenshot.png` in this repo for the live dashboard preview.
 
 ## 📸 Screenshot
 
-![Dashboard Screenshot](./screenshot.png)
-
-## 📎 Submission
-
-Task completed as per instructions.  
-Submission link: [Google Form](https://forms.gle/qumsSk73uxUZ6LYB9)
+above
